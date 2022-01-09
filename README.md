@@ -1,0 +1,1 @@
+A Chrome extension for measuring the relevance of the subject of a Wikipedia article. This is currently done by using the language-number rule of thumb: the bigger the number of languages the article exists in, the higher the subject relevance. The number of languages is displayed as badge text over the extension icon. Be sure to pin the extension!
